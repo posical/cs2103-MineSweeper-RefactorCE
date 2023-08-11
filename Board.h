@@ -1,8 +1,6 @@
 /** 
  * CS2103 Coding Exercise Special Semester 1 (Refactor Version)
  * File:   Board.h
- * Author: Kenneth Pan (U090283H)
- * Email: u0900283@nus.edu.sg
  * 
  * There are TWELVE files for this REFACTORED project.
  * main.cpp, Mine.h, GameBox.cpp, GameBox.h, GameState.cpp, GameState.h
